@@ -1,0 +1,5 @@
+py-cord
+python-dotenv==1.0.0
+aiodns                # Improved async DNS resolution
+asyncio==3.4.3
+brotli
